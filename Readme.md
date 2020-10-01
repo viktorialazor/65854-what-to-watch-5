@@ -1,7 +1,7 @@
 # Личный проект «Что посмотреть» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктория Лазор](https://up.htmlacademy.ru/react/5/user/65854).
-* Наставник: `Неизвестно`.
+* Наставник: [Владимир Ульянов](https://htmlacademy.ru/profile/id135131).
 
 ---
 
